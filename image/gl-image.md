@@ -29,6 +29,7 @@
 ```
 .
 ├─ assets/
+│   ├─ css/ ※WordPressは格納場所が決まっているため除外
 │   ├─ img/
 │   │   ├─ common/
 │   │   ├─ icon/
