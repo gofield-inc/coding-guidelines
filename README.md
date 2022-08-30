@@ -8,13 +8,21 @@
 - ドキュメント化することによって教育コストを減らすこと
 - コードの品質を向上するための土台にすること
 
-## ベースルール
-
-- 文書構造的に正しくマークアップすること
-- コンテンツの増減やサイズの変化等で崩れない構造にすること
-- インデントは半角スペース2つを使用すること
-- 以下のルールに則った品質のものを責任を持って作成すること
-
 ## 目次
 
 - HTML
+  - [HTMLのガイドライン](html/gl-html.md)
+- CSS
+  - [CSSのガイドライン](css/gl-css.md)
+  - [ECSS](css/how-to-ecss.md)
+  - [CSSクラス名リスト](css/css-naming-list.md)
+  - [その他のCSSガイドライン](css/another-css-guidelines.md)
+- JS
+  - [JSのガイドライン](js/gl-js.md)
+- 画像
+  - [画像のガイドライン](image/gl-image.md)
+  - [SVGのガイドライン](image/svg.md)
+- Git
+  - [コミットメッセージのガイドライン](git/commit-message.md)
+- 共通
+  - [フォーマット](common/format.md)
