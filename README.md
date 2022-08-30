@@ -21,7 +21,7 @@
   - [JSのガイドライン](js/gl-js.md)
 - 画像
   - [画像のガイドライン](image/gl-image.md)
-  - [SVGのガイドライン](image/svg.md)
+  - [SVGのガイドライン](image/gl-svg.md)
 - Git
   - [コミットメッセージのガイドライン](git/commit-message.md)
 - 共通
