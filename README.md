@@ -23,6 +23,6 @@
   - [画像のガイドライン](image/gl-image.md)
   - [SVGのガイドライン](image/gl-svg.md)
 - Git
-  - [コミットメッセージのガイドライン](git/commit-message.md)
+  - [コミットメッセージのガイドライン](git/gl-git.md)
 - 共通
   - [フォーマット](common/format.md)
