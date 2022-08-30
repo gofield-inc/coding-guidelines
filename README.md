@@ -14,7 +14,7 @@
 ## 目次
 
 - 共通
-  - [フォーマット](common/gl-format.md)
+  - [共通ルール](common/gl-rule.md)
 - HTML
   - [HTMLのガイドライン](html/gl-html.md)
 - CSS
