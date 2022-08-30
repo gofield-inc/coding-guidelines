@@ -1,5 +1,7 @@
 # コーディングガイドライン
 コードの最低限の品質を保つためのガイドラインです。
+
+
 ## 目的
 このガイドラインの目的は以下の通りです。
 
@@ -8,8 +10,11 @@
 - ドキュメント化することによって教育コストを減らすこと
 - コードの品質を向上するための土台にすること
 
+
 ## 目次
 
+- 共通
+  - [フォーマット](common/gl-format.md)
 - HTML
   - [HTMLのガイドライン](html/gl-html.md)
 - CSS
@@ -17,12 +22,8 @@
   - [ECSS](css/how-to-ecss.md)
   - [CSSクラス名リスト](css/css-naming-list.md)
   - [その他のCSSガイドライン](css/another-css-guidelines.md)
-- JS
-  - [JSのガイドライン](js/gl-js.md)
 - 画像
   - [画像のガイドライン](image/gl-image.md)
   - [SVGのガイドライン](image/gl-svg.md)
 - Git
   - [コミットメッセージのガイドライン](git/gl-git.md)
-- 共通
-  - [フォーマット](common/format.md)
