@@ -85,14 +85,15 @@ command + shift + p
 ### PC
 ブラウザサイズは1366x768にて横スクロールバーが表示されないよう構築してください。
 
-また、最もシェア率が高い（2022年9月時点）1920x1080でも最適化してください。Google Chromeでタブバー、アドレスバー、ブックマークツールバーを表示している状態で、
+また、最もシェア率が高い（2022年9月時点）1920x1080でも最適化してください。  
+Google Chrome 拡張機能 Web Developerの場合、タブバー、アドレスバー、ブックマークツールバーを表示している状態で、1902x965にリサイズすると確認できます。
 
 ### スマートフォン
-画面サイズ（解像度）は750 x 1334を基本とするが、320 x 568（iPhone5/SE 相当）でも崩れが発生しないように構築してください。
+解像度は750x1334を基本としますが、320x568（iPhone5/SE 相当）でも崩れが発生しないように構築してください。
 
 
 ## 品質管理
-基本的な品質管理として、下記を利用してください。
+基本的な品質管理として、下記をチェックしてください。
 
 ### バリデータ
 コーディング後はW3Cの基準に準拠したチェックツールを用いて検証テストを行い、
@@ -102,11 +103,11 @@ command + shift + p
 - [The W3C CSS Validation Service](https://validator.w3.org/)
 
 ### 見出しレベルチェック
-- [HeadingMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+- Google Chrome 拡張機能 [HeadingMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 
 
 ### Webアクセシビリティチェック
-- [axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+- Google Chrome 拡張機能 [axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 
 ### テキストチェック
 #### 英数字を半角で記述しているか
@@ -129,7 +130,7 @@ command + shift + p
   - 14:00
   - 午後2時
   - PM2:00
-- 言い回し（送り仮名の付け方など）を正しい表現で記載、もしくはサイト内統一してください
+- 言い回し（送り仮名の付け方など）を正しい表現で記載、もしくはサイト内で統一してください
 
 #### 漢字をひらいているか
 一般的に、読みやすい文章のバランスは「漢字3割：ひらがな7割」といわれています。  
