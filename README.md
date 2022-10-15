@@ -19,9 +19,7 @@
   - [HTMLのガイドライン](html/gl-html.md)
 - CSS
   - [CSSのガイドライン](css/gl-css.md)
-  - [ECSS](css/how-to-ecss.md)
   - [CSSクラス名リスト](css/css-naming-list.md)
-  - [その他のCSSガイドライン](css/another-css-guidelines.md)
 - 画像
   - [画像のガイドライン](image/gl-image.md)
   - [SVGのガイドライン](image/gl-svg.md)
